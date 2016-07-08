@@ -1,3 +1,7 @@
-lols
+<<<<<<< HEAD
+lols;
 lollllls
 1233
+=======
+lols;
+>>>>>>> master
